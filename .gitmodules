@@ -1,0 +1,3 @@
+[submodule "MIDIButtonController/PGMidi"]
+	path = MIDIButtonController/PGMidi
+	url = git@github.com:sieren/PGMidi.git

@@ -7,7 +7,7 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>4A0661C3-0493-487C-BA80-D5786E18A9F3</string>
 	<key>IDESourceControlProjectName</key>
-	<string>MIDIButtonController</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>5C788FB45371F7A39B6FFB445D10D0EF209EBAE3</key>
@@ -16,7 +16,7 @@
 		<string>github.com:sieren/MIDIButtons.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>MIDIButtonController.xcodeproj</string>
+	<string>MIDIButtonController.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>5C788FB45371F7A39B6FFB445D10D0EF209EBAE3</key>
